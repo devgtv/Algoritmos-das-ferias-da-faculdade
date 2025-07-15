@@ -34,6 +34,6 @@ int main() {
         cout << resultado[i] << ' ';
     }
 
-    cout << '\n';
+    cout << endl;
     return 0;
 }
