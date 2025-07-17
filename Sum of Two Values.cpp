@@ -43,6 +43,6 @@ int main() {
         }
     }
 
-    cout << "IMPOSSÍVEL\n";
+    cout << "IMPOSSIBLE\n";
     return 0;
 }
